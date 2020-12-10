@@ -1,3 +1,3 @@
 # Description
-with this plugin players can easily wear armors!
+with this plugin all players can easily wear armors by tapping it on the ground!
 
