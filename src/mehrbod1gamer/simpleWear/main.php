@@ -8,7 +8,7 @@ use pocketmine\item\Armor;
 use pocketmine\item\Item;
 use pocketmine\plugin\PluginBase;
 
-class onWear extends PluginBase implements Listener
+class main extends PluginBase implements Listener
 {
     public function onEnable()
     {
